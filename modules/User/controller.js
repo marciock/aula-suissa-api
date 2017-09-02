@@ -1,4 +1,4 @@
-const Model = require( './../models/model' )
+const Model = require( './model' )
 
 const create = ( req, res ) => {
 
